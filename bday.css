@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    background: linear-gradient(#a2d2ff,pink);
+    color: white;
+    font-family: cursive;
+}
+.pic {
+    height: 150px;
+    width: 150px;
+    border-radius: 360px;
+    border: 6px solid pink;
+}
+#age{
+    background: pink;
+    padding: 4px 10px;
+    border-radius: 9px;
+    margin-bottom: 10px;
+}
+#dob{
+    background: pink;
+    padding: 4px 10px;
+    border-radius: 9px;
+    margin: 0;
+}
+.intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1, #age, #dob, h2,h3, .footer{
+    text-shadow: 0 0 2px black;
+}
+.gif, .gif2, .gif3, .gif4, .gif5{
+    margin-top: 60px;
+}
+#img1, #img2, #img3, #img4, #img5{
+    width: 400px;
+    height: 400px;
+    border: 6px solid;
+    border-radius: 10px;
+    background-image: url("https://cdn.theatlantic.com/thumbor/RB483UuaqENhbIHsQcAMa73ipOg=/1050x0:3750x2700/1080x1080/media/img/mt/2022/12/What_Gifts_Say/original.jpg");
+    background-size: cover;
+    margin: 0 auto;
+}
+#img1:hover{
+    background-image: url("https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycDNuYXlyMXd0dzliOWh1bHBsdXc1Zjl2aTh2YzFrdzFuOGc2NnB2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o75ajIFH0QnQC3nCeD/200w.gif");
+}
+#img2:hover{
+    background-image: url("https://media.tenor.com/2mTWFq5z2gAAAAAM/hot-damni-b99.gif");
+}
+#img3:hover{
+    background-image: url("https://media.tenor.com/CorCHScRJKwAAAAM/eldoggy.gif");
+}
+#img4:hover{
+    background-image: url("https://media.tenor.com/itY4fzkTtUwAAAAM/assasin-mode.gif");
+}
+#img5{
+    height: 200px;
+    margin-bottom: 25px;
+}
+#img5:hover{
+    background-image: url("https://media.tenor.com/LCpGmX5A6NIAAAAM/cheers-toast.gif");
+}
+a{
+    color: white;
+}

@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20251001/pngtree-a-photograph-of-blue-subway-train-moving-rapidly-through-the-station-image_19748524.webp");
+    text-align: center; 
+    background-size: cover;
+    font-weight: bold;
+}
+h1{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+button{
+    width: 140px;
+    padding: 5px 12px;
+    font-size: 20px;
+    font-weight: bold;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}

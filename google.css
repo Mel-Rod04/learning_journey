@@ -1,0 +1,29 @@
+.main {
+    text-align: center;
+    margin-top: 100px;
+}
+img {
+    height: 200px;
+    margin-bottom: -10px;
+}
+input{
+    line-height: 24px;
+    width: 500px;
+    border: 1px solid #dfe1e5;
+    border-radius: 20px;
+    margin-bottom: 8px;
+    padding: 10px 30px 10px 30px;
+}
+.btn-wrp{
+    display: flex;
+    justify-content: center;
+}
+button {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 5px;
+    border: 1px none gray;
+    border-radius: 15px;
+    background-color: #f8f9fa;
+    padding: 5px 10px 5px 10px;
+}
